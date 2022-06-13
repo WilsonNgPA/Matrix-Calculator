@@ -1,5 +1,4 @@
 //mingw32-make
-//Ng, Pei Aou Wilson 100332292
 
 
 #ifndef MATRIX_H
